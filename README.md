@@ -6,6 +6,10 @@ I complied and collected some of the articles as a part of doing **CS654A** cour
 
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. Some more [awesome resource](https://github.com/binhnguyennus/awesome-scalability)
 
+[![How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://img.youtube.com/vi/mCM6QVHD08c/0.jpg)](https://www.youtube.com/watch?v=mCM6QVHD08c)
+
+[![Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://img.youtube.com/vi/x2-rSnhpw0g/0.jpg)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+
 ## `SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. GIVE IT A THOUGHT`
 
 ## Disclaimer/Acknowledgements
@@ -32,6 +36,8 @@ We are working to create good content to fulfil the needs of system-design noobs
 ## How to prepare system design questions?
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
+
+In order to practice designing a few systems, for the love or learning or preparing for interviews, you can use this [practice platform](https://workat.tech/system-design/practice).
 
 This repository only teaches you how to handle the system design interview with a systematic approach in a concise way. You can dive into each topic if you have time. Of course, welcome to add your thoughts!.
 

@@ -10,9 +10,11 @@
 - [SE Daily - Knowledge-Based Programming with Stephen Wolfram](https://softwareengineeringdaily.com/2015/11/10/knowledge-based-programming-with-stephen-wolfram/)
 - [TV Input Format Architecture -- Hardware*](https://source.android.com/devices/tv)
 - [What Is Cloud Computing? According To ChatGPT.](http://highscalability.com/blog/2022/12/16/what-is-cloud-computing-according-to-chatgpt.html)
+- [Metrics, Logs and Traces: More Similar Than They Appear?](https://thenewstack.io/metrics-logs-and-traces-more-similar-than-they-appear/)
 
 ### Eventual Consistency & CAP Theorem
 
+- [Building High Scale Backend Systems](https://www.youtube.com/watch?v=8lHr8T5JIJs)
 - [https://www.allthingsdistributed.com/2008/12/eventually_consistent.html](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c](https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c)
 - [https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06](https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06)
@@ -23,3 +25,4 @@
 - [https://www.youtube.com/watch?v=LAsMrghdFP0](https://www.youtube.com/watch?v=LAsMrghdFP0) 
 - [Cap Theorem : https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Yahoo! CAP](https://edisciplinas.usp.br/pluginfile.php/2541318/mod_resource/content/1/TeoremaDeBrewer.pdf)
+- [Consistent Hashing Algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html)
